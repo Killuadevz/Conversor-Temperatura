@@ -13,9 +13,9 @@ Este projeto é um programa de conversão de temperatura simples escrito em Java
 
 A fórmula usada para converter de Fahrenheit para Celsius é:
 
-\[
-\text{{Celsius}} = (\text{{Fahrenheit}} - 32) / 1.8
-\]
+```
+Celsius = (Fahrenheit - 32) / 1.8
+```
 
 
 
@@ -24,9 +24,9 @@ A fórmula usada para converter de Fahrenheit para Celsius é:
 
 A fórmula usada para converter de Celsius para Fahrenheit é:
 
-\[
-\text{{Fahrenheit}} = (\text{{Celsius}} \times 9/5) + 32
-\]
+```
+Fahrenheit = (Celsius × 9/5) + 32
+```
 
 ## Licença
 
